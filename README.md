@@ -7,7 +7,7 @@ The aim of this project is to predict snow depth in Finnish ski centers by using
 3. Machine Learning: Models trained using scikit-learn, future data extrapolated using Prophet
 4. Data visualisation: Figures created using Matplotlib
 
-*temperature, cloud cover, snow depth
-*solar radiation
+*temperature, cloud cover, snow depth<br>
+**solar radiation
 
 ![figure1: project steps](https://github.com/vltnnx/Snow-Depth-Prediction/blob/main/fig/project_steps.png?raw=true)
