@@ -13,4 +13,4 @@ The aim of this project is to predict snow depth in Finnish ski centers by using
 ![figure1: project steps](https://github.com/vltnnx/Snow-Depth-Prediction/blob/main/fig/project_steps.png?raw=true)
 
 ## Visualisations - Tableau
-![figure2: historical and prediction data visualised]()
+![figure2: historical and prediction data visualised](https://raw.githubusercontent.com/vltnnx/Snow-Depth-Prediction/main/fig/fig-tableau.png)
