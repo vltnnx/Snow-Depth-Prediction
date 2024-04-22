@@ -2,3 +2,6 @@ __pycache__
 pres/
 .venv
 .DS_Store
+data/future-data/
+*.ipynb
+dump/
